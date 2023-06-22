@@ -1,0 +1,2 @@
+# Housing-Market-Analysis
+This project made use of simple linear regressions and two sample tests to assess the significance of categorical and numerical variables in the sample housing data. The analysis makes use of sample studies to make predictions about population parameters at the 95% significance level. The repository contains the code built to analyse a csv file of housing data with relevant variables of study.
